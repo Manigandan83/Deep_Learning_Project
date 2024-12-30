@@ -1,0 +1,6 @@
+seaborn
+tensorflow
+tqdm
+scikit-learn
+pillow
+matplotlib
